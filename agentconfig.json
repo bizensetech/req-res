@@ -1,0 +1,123 @@
+    {
+  	"account": ["Samsung_J7_Prime_Programmatic"],           
+  	"bidProbability": 1,
+  	"bidderInterface": "iface.http",
+  	"creatives": [{
+  		"adomain": ["samsungexperiencestore.com"],
+  		"cat": ["IAB10"],
+  		"attr": [11],
+  		"imptrackers": ["asdasd"],        
+  		"type": [2],                  
+  		"adformat": "banner",
+  		"height": 250,
+  		"id": 148,                 
+  		"providerConfig": {
+  			"mopub": { 
+  				"adm": "<html style='margin: 0px; padding: 0px'> <body style='margin: 0px; padding: 0px'><div style='margin: 0px; padding: 0px'><div style='padding:0px;margin:0px;width:300px; height:250px;position:relative'><a style='text-decoration: none;font-family:Times New Roman; position: absolute; top: 1px; right: 1px; background-color: white; padding: 0px;' href='http://www.twinpinenetwork.com' target='_blank'><span style='color: #fa0; font-size: 15px;'>t</span><span style='color: #0a0; font-size: 15px;'>p</span> </a><a href='https://bids.dsp.twinpinenetwork.com/click?zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}%26ct=%%CLICK_URL_ESC%%https%253A%252F%252Fwww.samsungexperiencestore.com%252F' target='_blank' style='margin: 0px; padding: 0px'><img src='https://static.dsp.twinpinenetwork.com/ads//229/300x250.jpg' width='300' height='250' border='0' style='margin: 0px; padding: 0px' /><img src='https://bids.dsp.twinpinenetwork.com/ipxl?ap=${AUCTION_PRICE}%26zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}' width='0' height='0' border='0' style='display:none' /></a> </div> </div> </body> </html>",
+  				"adomain": ["samsungexperiencestore.com"],
+  				"attr": [11],
+  				"cat": [
+  					"IAB10",
+  					"IAB22",
+  					"IAB3",
+  					"IAB8",
+  					"IAB9",
+  					"IAB12",
+  					"IAB17",
+  					"IAB18",
+  					"IAB20",
+  					"IAB1",
+  					"IAB6",
+  					"IAB14",
+  					"IAB19"
+  				],
+  				"crid": "/31/113/148",
+  				"impression_tracking_url": [
+  					"https://msisdn.terragonbase.com/tmoniF/dsp?bidRequestId=${AUCTION_ID}"
+  				],
+  				"type": [2]
+  			},
+				"pubnative": { 
+  				"adm": "<html style='margin: 0px; padding: 0px'> <body style='margin: 0px; padding: 0px'><div style='margin: 0px; padding: 0px'><div style='padding:0px;margin:0px;width:300px; height:250px;position:relative'><a style='text-decoration: none;font-family:Times New Roman; position: absolute; top: 1px; right: 1px; background-color: white; padding: 0px;' href='http://www.twinpinenetwork.com' target='_blank'><span style='color: #fa0; font-size: 15px;'>t</span><span style='color: #0a0; font-size: 15px;'>p</span> </a><a href='https://bids.dsp.twinpinenetwork.com/click?zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}%26ct=%%CLICK_URL_ESC%%https%253A%252F%252Fwww.samsungexperiencestore.com%252F' target='_blank' style='margin: 0px; padding: 0px'><img src='https://static.dsp.twinpinenetwork.com/ads//229/300x250.jpg' width='300' height='250' border='0' style='margin: 0px; padding: 0px' /><img src='https://bids.dsp.twinpinenetwork.com/ipxl?ap=${AUCTION_PRICE}%26zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}' width='0' height='0' border='0' style='display:none' /></a> </div> </div> </body> </html>",
+  				"adomain": ["samsungexperiencestore.com"],
+  				"attr": [11],
+  				"cat": [
+  					"IAB10",
+  					"IAB22",
+  					"IAB3",
+  					"IAB8",
+  					"IAB9",
+  					"IAB12",
+  					"IAB17",
+  					"IAB18",
+  					"IAB20",
+  					"IAB1",
+  					"IAB6",
+  					"IAB14",
+  					"IAB19"
+  				],
+  				"crid": "/31/113/148",
+  				"impression_tracking_url": [
+  					"https://msisdn.terragonbase.com/tmoniF/dsp?bidRequestId=${AUCTION_ID}"
+  				],
+  				"type": [2]
+  			},
+  			"smaato": {
+  				"adid": "/31/113/148",
+  				"adm": "<ad xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='smaato_ad_v0.9.xsd' modelVersion='0.9'><imageAd><clickUrl>https://bids.dsp.twinpinenetwork.com/click?zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}%26ct=0c9ac080322b373f275ef343e1e21188a64183b1c8f7d8767dac5b759b9a6d6c8c5ddec09c85d9</clickUrl><imgUrl>http://static.dsp.twinpinenetwork.com/ads//229/300x250.jpg</imgUrl><width>300</width><height>250</height><toolTip>This is a tooltip text</toolTip><additionalText>Additional text to be displayed</additionalText><beacons><beacon>https://bids.dsp.twinpinenetwork.com/ipxl?ap=${AUCTION_PRICE}%26zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}</beacon></beacons></imageAd></ad>",
+  				"adomain": ["samsungexperiencestore.com"],
+  				"attr": [0],
+  				"cat": [
+  					"IAB10",
+  					"IAB22",
+  					"IAB3",
+  					"IAB8",
+  					"IAB9",
+  					"IAB12",
+  					"IAB17",
+  					"IAB18",
+  					"IAB20",
+  					"IAB1",
+  					"IAB6",
+  					"IAB14",
+  					"IAB19"
+  				],
+  				"crid": "/31/113/148",
+  				"mimeTypes": ["image/png"],
+  				"nurl": "https://bids.dsp.twinpinenetwork.com/win?ap=${AUCTION_PRICE}%26adm=%26zone=%26ad=%2F31%2F113%2F148%26bidRequestId=${AUCTION_ID}%26impId=${AUCTION_IMP_ID}",
+  				"seat": "123",
+  				"type": [2]
+  			}
+  		},
+  		"url": "229/300x250.jpg",
+  		"width": 300
+  	}],
+  	"externalId": 113,	
+  	"locationFilter": {
+  		"exclude": [],
+  		"include": []
+  	},
+  	"connectiontypeFilter": {
+  		"exclude": [],
+  		"include": []
+  	},
+  	"providerConfig": {
+  		"mopub": {
+  			"iurl": "https://static.dsp.twinpinenetwork.com/ads/229/300x250.jpg",
+  			"seat": "123"
+  		},
+		"pubnative": {
+  			"iurl": "https://static.dsp.twinpinenetwork.com/ads/229/300x250.jpg",
+  			"seat": "123"
+  		},
+  		"smaato": {
+  			"iurl": "http://static.dsp.twinpinenetwork.com/ads//229/300x250.jpg",
+  			"seat": "123"
+  		}
+  	},
+  	"augmentations": {
+  		"freq_req": {
+  			"maxperday": 10
+  		}
+  	 }
+  }
